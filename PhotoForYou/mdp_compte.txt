@@ -1,0 +1,9 @@
+id -> 1 ; nom -> hiver ; prenom -> automne ; mdp -> été
+
+id -> 2 ; nom -> arte ; prenom -> arte ; mdp -> arte
+
+id -> 3 ; nom -> qsdf ; prenom -> qsdf; mdp -> qsdf
+
+id -> 4 ; nom -> azerty ; prenom -> azerty ; mdp -> azerty
+
+id -> 5 ; nom -> dgf ; prenom -> dfg ; mdp -> fdg
